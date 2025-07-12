@@ -190,8 +190,7 @@ export const experiences = [
       title: "Homzy – Real Estate Platform",
       description:
         "A full-stack real estate listing application built using Firebase for authentication and Firestore for property listings. Integrated Cloudinary for image upload and dynamic filtering for search.",
-      image:
-        "https://private-user-images.githubusercontent.com/172292383/437588042-0cce769e-e170-410c-ae5e-fb7af1518689.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIyMzYwMjksIm5iZiI6MTc1MjIzNTcyOSwicGF0aCI6Ii8xNzIyOTIzODMvNDM3NTg4MDQyLTBjY2U3NjllLWUxNzAtNDEwYy1hZTVlLWZiN2FmMTUxODY4OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxMVQxMjA4NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NDNjYzE2ZWJkNjUyMGU2OTEzNTFhNTI1NDZmM2QwM2NhMDZlM2Y5NWE1ZTgyYjk0N2FhYzUwNWE0MDA5NGU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.zfyvNnPNY3U0-wYjcCNhy6XmZ-YlwIfncQNu0A3jihM",
+      image: "https://i.postimg.cc/BbG3nQvr/Screenshot-2025-04-26-005937.png",
       tags: ["React JS", "Firebase", "Firestore", "Cloudinary"],
       github: "https://github.com/sudeep-kumar0/real-estate-firebase-app",
       webapp: "https://real-estate-firebase-app-one.vercel.app",
@@ -201,8 +200,7 @@ export const experiences = [
       title: "HealthCare Appointment Platform",
       description:
         "A modern healthcare web app built with React.js that enables users to book appointments, browse doctors, and learn about services. Designed with a responsive UI and dummy backend APIs for simulation.",
-      image:
-        "https://private-user-images.githubusercontent.com/172292383/454993766-aace1038-08c5-4f9d-a936-47897bffa405.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIyMzY2NjksIm5iZiI6MTc1MjIzNjM2OSwicGF0aCI6Ii8xNzIyOTIzODMvNDU0OTkzNzY2LWFhY2UxMDM4LTA4YzUtNGY5ZC1hOTM2LTQ3ODk3YmZmYTQwNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxMVQxMjE5MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NzNlN2NiNTdmZWJiYTFkOTI4NDNiOTk1NzhjMDdiNzQzZWI1ZDM0MWY5MTA0NzJiNDI0ZTFmZTQwMGYwZWJlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.8DIYTfnjAhoc1ByHHy-__tbd4P7ZBvYFVIAVU2Hakyo",
+      image: "https://i.postimg.cc/VL8sY4rJ/Screenshot-2025-06-13-233619.png",
       tags: ["React JS", "Healthcare", "Appointments"],
       github: "https://github.com/sudeep-kumar0/health-care_react",
       webapp: "https://health-care-react-nine.vercel.app",
@@ -212,8 +210,7 @@ export const experiences = [
       title: "SoleMate – Shoe E-Commerce App",
       description:
         "A full-stack e-commerce app for selling shoes built using the MERN stack. Features secure login/signup, product browsing, and cart management. Emphasis on UI/UX with responsive layout.",
-      image:
-        "https://private-user-images.githubusercontent.com/172292383/454875809-28943502-d1ec-452f-bcc5-b2f611d7d233.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIyMzY0NDEsIm5iZiI6MTc1MjIzNjE0MSwicGF0aCI6Ii8xNzIyOTIzODMvNDU0ODc1ODA5LTI4OTQzNTAyLWQxZWMtNDUyZi1iY2M1LWIyZjYxMWQ3ZDIzMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxMVQxMjE1NDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMWU0YTc4ODUzNTQzZGQ3ZGU4ODdhYzEyYjQyNzMwMzQ1ZTUwZjNkMWE1ZDYzODY1YzRlNDFmZmZkMzQ0MzUxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Ozh05oVU_lOYDoqimU09W-D2D9Nl_dJQoMuGUG4cepo",
+      image: "https://i.postimg.cc/JzQswvp7/Screenshot-2025-06-13-183539.png",
       tags: ["React JS", "Node.js", "MongoDB", "Express", "E-commerce"],
       github: "https://github.com/sudeep-kumar0/shoes_app-mern-stack",
       webapp: "https://shoes-app-mern-stack.vercel.app",
@@ -223,8 +220,7 @@ export const experiences = [
       title: "Tomato – Food Delivery System",
       description:
         "A MERN stack-based food delivery platform with role-based access. Admins, restaurants, and users manage orders and menus through modular APIs. Fully responsive and scalable design.",
-      image:
-        "https://private-user-images.githubusercontent.com/172292383/455131462-da78629e-74bc-4cb6-a112-9dec3556629b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIyMzY1MTksIm5iZiI6MTc1MjIzNjIxOSwicGF0aCI6Ii8xNzIyOTIzODMvNDU1MTMxNDYyLWRhNzg2MjllLTc0YmMtNGNiNi1hMTEyLTlkZWMzNTU2NjI5Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxMVQxMjE2NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZjVmZmQ1NTc2NTc4ODQzODI1ZTdmNWQxYWU4NTZiMGFmNDI2MGM4ZmE1YjhkNDk5YTIxOTdlN2QyY2RjZGQxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.T0glTE_ZPniR7TTZbWXcRb6Vn8HgNJ-FQOKbR6CU1zc",
+      image: "https://i.postimg.cc/7PgDQ7sw/Screenshot-2025-06-14-125345.png",
       tags: ["React JS", "Node.js", "Express", "MongoDB", "MERN"],
       github: "https://github.com/sudeep-kumar0/tomato-food-delivery",
       webapp: "Coming Soon",
@@ -234,8 +230,7 @@ export const experiences = [
       title: "Car Price Predictor (ML + Flask)",
       description:
         "A machine learning web application that predicts car prices using linear regression. Developed using Python, Flask, and scikit-learn, and includes an interactive frontend to test predictions.",
-      image:
-        "https://private-user-images.githubusercontent.com/172292383/455129609-601d4e6c-b229-4bca-b20b-8c2a52d86e48.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIyMzY0ODUsIm5iZiI6MTc1MjIzNjE4NSwicGF0aCI6Ii8xNzIyOTIzODMvNDU1MTI5NjA5LTYwMWQ0ZTZjLWIyMjktNGJjYS1iMjBiLThjMmE1MmQ4NmU0OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxMVQxMjE2MjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZDJkNDQ2NjA5ZDc0MmIxNGVjNDhlNGMxMDIzNzYzNTA3MzdlNzU3Yjk1ZTI4ZGQ0ZjQ0NDVjY2ZiZWEwOGEzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.rmEgXEofVeLB4qpDgoxnUhrXRzsDNrBOW8h6mJQ2V6A",
+      image: "https://i.postimg.cc/bNNMH246/Screenshot-2025-06-14-000823.png",
       tags: ["Python", "Machine Learning", "Flask"],
       github: "https://github.com/sudeep-kumar0/car_price_prediction-ML",
       webapp: "Coming Soon",
