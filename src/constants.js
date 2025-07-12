@@ -190,7 +190,8 @@ export const experiences = [
       title: "Homzy – Real Estate Platform",
       description:
         "A full-stack real estate listing application built using Firebase for authentication and Firestore for property listings. Integrated Cloudinary for image upload and dynamic filtering for search.",
-      image: "https://i.postimg.cc/BbG3nQvr/Screenshot-2025-04-26-005937.png",
+      image:
+        "https://res.cloudinary.com/dmu7j8wov/image/upload/v1752329822/Screenshot_2025-04-26_005937_nrxs7s.png",
       tags: ["React JS", "Firebase", "Firestore", "Cloudinary"],
       github: "https://github.com/sudeep-kumar0/real-estate-firebase-app",
       webapp: "https://real-estate-firebase-app-one.vercel.app",
@@ -200,7 +201,8 @@ export const experiences = [
       title: "HealthCare Appointment Platform",
       description:
         "A modern healthcare web app built with React.js that enables users to book appointments, browse doctors, and learn about services. Designed with a responsive UI and dummy backend APIs for simulation.",
-      image: "https://i.postimg.cc/VL8sY4rJ/Screenshot-2025-06-13-233619.png",
+      image:
+        "https://res.cloudinary.com/dmu7j8wov/image/upload/v1752329645/Screenshot_2025-06-13_233619_wchajx.png",
       tags: ["React JS", "Healthcare", "Appointments"],
       github: "https://github.com/sudeep-kumar0/health-care_react",
       webapp: "https://health-care-react-nine.vercel.app",
@@ -210,7 +212,8 @@ export const experiences = [
       title: "SoleMate – Shoe E-Commerce App",
       description:
         "A full-stack e-commerce app for selling shoes built using the MERN stack. Features secure login/signup, product browsing, and cart management. Emphasis on UI/UX with responsive layout.",
-      image: "https://i.postimg.cc/JzQswvp7/Screenshot-2025-06-13-183539.png",
+      image:
+        "https://res.cloudinary.com/dmu7j8wov/image/upload/v1752329645/Screenshot_2025-06-13_183539_on6dtq.png",
       tags: ["React JS", "Node.js", "MongoDB", "Express", "E-commerce"],
       github: "https://github.com/sudeep-kumar0/shoes_app-mern-stack",
       webapp: "https://shoes-app-mern-stack.vercel.app",
@@ -220,7 +223,8 @@ export const experiences = [
       title: "Tomato – Food Delivery System",
       description:
         "A MERN stack-based food delivery platform with role-based access. Admins, restaurants, and users manage orders and menus through modular APIs. Fully responsive and scalable design.",
-      image: "https://i.postimg.cc/7PgDQ7sw/Screenshot-2025-06-14-125345.png",
+      image:
+        "https://res.cloudinary.com/dmu7j8wov/image/upload/v1752329822/Screenshot_2025-06-14_125345_pbcxob.png",
       tags: ["React JS", "Node.js", "Express", "MongoDB", "MERN"],
       github: "https://github.com/sudeep-kumar0/tomato-food-delivery",
       webapp: "Coming Soon",
@@ -230,7 +234,7 @@ export const experiences = [
       title: "Car Price Predictor (ML + Flask)",
       description:
         "A machine learning web application that predicts car prices using linear regression. Developed using Python, Flask, and scikit-learn, and includes an interactive frontend to test predictions.",
-      image: "https://i.postimg.cc/bNNMH246/Screenshot-2025-06-14-000823.png",
+      image: "https://res.cloudinary.com/dmu7j8wov/image/upload/v1752329821/Screenshot_2025-06-14_000823_rjlrdc.png",
       tags: ["Python", "Machine Learning", "Flask"],
       github: "https://github.com/sudeep-kumar0/car_price_prediction-ML",
       webapp: "Coming Soon",
