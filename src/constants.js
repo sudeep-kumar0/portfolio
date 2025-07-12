@@ -216,7 +216,8 @@ export const experiences = [
         "https://res.cloudinary.com/dmu7j8wov/image/upload/v1752329645/Screenshot_2025-06-13_183539_on6dtq.png",
       tags: ["React JS", "Node.js", "MongoDB", "Express", "E-commerce"],
       github: "https://github.com/sudeep-kumar0/shoes_app-mern-stack",
-      webapp: "https://shoes-app-mern-stack.vercel.app",
+      webapp:
+        "https://shoes-app-mern-sta-git-658ae2-sudeepkumarukh-gmailcoms-projects.vercel.app/",
     },
     {
       id: 3,
@@ -234,7 +235,8 @@ export const experiences = [
       title: "Car Price Predictor (ML + Flask)",
       description:
         "A machine learning web application that predicts car prices using linear regression. Developed using Python, Flask, and scikit-learn, and includes an interactive frontend to test predictions.",
-      image: "https://res.cloudinary.com/dmu7j8wov/image/upload/v1752329821/Screenshot_2025-06-14_000823_rjlrdc.png",
+      image:
+        "https://res.cloudinary.com/dmu7j8wov/image/upload/v1752329821/Screenshot_2025-06-14_000823_rjlrdc.png",
       tags: ["Python", "Machine Learning", "Flask"],
       github: "https://github.com/sudeep-kumar0/car_price_prediction-ML",
       webapp: "Coming Soon",
